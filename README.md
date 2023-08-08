@@ -28,6 +28,7 @@ After importing the files in Power BI I began creating visualizations that would
 </ol>
 
 <h1>Insights Gained</h1>
+
 -Total Alien Population is 50K
 
 -The State with the most alien population was texas with almost 5.4K
